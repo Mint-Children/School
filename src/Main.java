@@ -6,8 +6,8 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         // 캐럿을 강조 표시된 텍스트에 놓고 Alt+Enter을(를) 누르면
-        //FileReader fin = null;
-        //FileInputStream fin = null;
+        // FileReader fin = null;
+        // FileInputStream fin = null;
         // InputStreamReader in = null;
         // String name = "";
           /* try {
